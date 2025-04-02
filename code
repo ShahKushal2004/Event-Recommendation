@@ -1,0 +1,83 @@
+-- Event Recommendation System Code 
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.neighbors import NearestNeighbors
+from rapidfuzz import process  # Faster than fuzzywuzzy
+
+df = pd.read_excel(r"C:\Users\Kushal\Desktop\Mumbai_Social_Events_2024.xlsx", engine="openpyxl")
+
+
+df.columns = df.columns.str.strip()
+df.fillna("", inplace=True)
+
+df["Combined_Text"] = (df["Category"] + " " + df["Description"]).str.lower()
+
+vectorizer = TfidfVectorizer(stop_words="english", max_features=300)  # Reduced to 300 for speed
+tfidf_matrix = vectorizer.fit_transform(df["Combined_Text"])
+
+nn_model = NearestNeighbors(n_neighbors=3, metric="cosine")
+nn_model.fit(tfidf_matrix)
+
+def get_best_match(user_input, df):
+    """Find the closest matching event name using rapidfuzz."""
+    best_match = process.extractOne(user_input, df["Event Name"].astype(str))
+    return best_match[0] if best_match and best_match[1] > 50 else None
+
+def recommend_events(event_name, df, vectorizer, nn_model):
+    """Recommend 3 similar events based on event name."""
+    best_match = get_best_match(event_name, df)
+    if not best_match:
+        return f"⚠️ No similar events found for '{event_name}'"
+
+    # Transform user input into TF-IDF vector
+    idx = df[df["Event Name"] == best_match].index[0]
+    event_vector = tfidf_matrix[idx]
+
+    # Get nearest neighbors (top 3 recommendations)
+    distances, indices = nn_model.kneighbors(event_vector, n_neighbors=3)
+    
+    return df.iloc[indices[0]][['Event Name', 'Category', 'Location', 'Rating']]
+
+user_input = input("Enter an event: ")
+print("\nRecommended Events:\n", recommend_events(user_input, df, vectorizer, nn_mode
+
+
+
+Location Recommendation System
+rom sklearn.neighbors import NearestNeighbors
+import pandas as pd
+import numpy as np
+
+df_location = pd.read_csv(r"C:\Users\Kushal\Desktop\locations.csv")
+
+
+df_location.dropna(subset=["Latitude", "Longitude"], inplace=True)
+
+nn_model = NearestNeighbors(n_neighbors=3, metric="haversine")  # Haversine for geo distances
+nn_model.fit(np.radians(df_location[["Latitude", "Longitude"]]))
+
+def get_location_recommendations(user_location, data_final, nn_model):
+    """Recommend 3 event types based on user location (or nearest locations)."""
+    
+    location_events = df_location[data_final["Location"].str.lower() == user_location.lower()]
+
+    if not location_events.empty:
+        print(f"✅ Events found in {user_location}:")
+        return location_events[["Category", "Location", "Rating"]].drop_duplicates().head(3)
+    
+    print(f"⚠️ No events found in {user_location}. Searching nearby locations...\n")
+
+    loc_info = df_location[data_final["Location"].str.lower() == user_location.lower()]
+    if loc_info.empty:
+        return "⚠️ Location not found in database. Try a different city."
+
+    user_lat, user_lon = loc_info.iloc[0][["Latitude", "Longitude"]]
+
+    distances, indices = nn_model.kneighbors([[np.radians(user_lat), np.radians(user_lon)]])
+    
+    nearest_events = df_location.iloc[indices[0]][["Category", "Location", "Rating"]].drop_duplicates().head(3)
+    
+    return nearest_events
+
+user_input = input("Enter event location: ")
+print("\nRecommended Events:\n", get_location_recommendations(user_input, df_location, nn_model))
