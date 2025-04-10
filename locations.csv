@@ -1,0 +1,84 @@
+﻿Event ID,Event Name,Category,Description,Location,Date,Rating,Latitude,Longitude
+1,Beach Cleanup Drive at Juhu,Environmental,"A community initiative to clean up Juhu Beach, promoting environmental awareness.",Juhu Beach,15-03-2024,1.87,19.1026521,72.82467918
+2,Tree Plantation at Sanjay Gandhi National Park,Environmental,Planting native trees to enhance biodiversity and combat climate change.,Borivali,05-04-2024,4.75,19.229068,72.8573628
+3,Food Distribution at Dharavi,Community Welfare,"Distributing meals to underprivileged families in Dharavi, ensuring food security.",Dharavi,20-03-2024,3.66,19.044463,72.8586177
+4,Educational Workshop for Women,Education & Awareness,Empowering women with basic literacy and vocational skills to promote self-reliance.,Andheri,25-03-2024,2.99,19.1196976,72.8464205
+5,Street Play on Social Issues,Cultural & Artistic,Performing street plays to raise awareness about pressing social issues.,Bandra,30-03-2024,0.78,19.0549792,72.8402203
+6,Seminar by Environmental Activist,Leadership & Development,A talk by a renowned environmentalist discussing sustainable living practices.,Colaba,10-04-2024,0.78,18.915091,72.8259691
+7,Blood Donation Camp,Community Welfare,Organizing a blood donation drive to support local hospitals and patients in need.,Dadar,18-03-2024,0.29,19.0177342,72.8437523
+8,Clean-Up Drive at Versova Beach,Environmental,Volunteers gather to remove plastic waste and debris from Versova Beach.,Versova,12-04-2024,4.33,19.13025205,72.8213775
+9,Workshop on Digital Literacy,Education & Awareness,Teaching basic computer skills to senior citizens to help them navigate the digital world.,Malad,15-04-2024,3.01,42.1915872,-112.250798
+10,Cultural Fest Celebrating Diversity,Cultural & Artistic,"A festival showcasing Mumbai's diverse cultures through music, dance, and food.",Marine Drive,20-04-2024,3.54,49.209675,-123.116935
+11,Health Camp for Underprivileged Children,Community Welfare,Providing free health check-ups and vaccinations for children in low-income communities.,Kurla,25-04-2024,0.1,58.69388965,25.68540545
+12,River Cleanup at Mithi River,Environmental,Removing pollutants from the Mithi River to restore its natural ecosystem.,Saki Naka,02-05-2024,4.85,19.1082208,72.8835824
+13,Workshop on Sustainable Living,Education & Awareness,Educating participants on reducing waste and adopting eco-friendly habits.,Powai,05-05-2024,4.16,19.1187195,72.9073476
+14,Street Art Festival,Cultural & Artistic,Encouraging local artists to beautify public spaces with murals and graffiti art.,Lower Parel,10-05-2024,1.06,18.99568,72.8302756
+15,Seminar on Mental Health Awareness,Leadership & Development,Discussions led by psychologists to destigmatize mental health issues.,Fort,15-05-2024,0.91,25.3851063,86.46769912
+16,Clothes Donation Drive,Community Welfare,Collecting and distributing clothes to homeless individuals and families.,Ghatkopar,18-05-2024,0.92,19.0856928,72.9083668
+17,Mangrove Restoration Project,Environmental,Replanting mangroves to protect coastal areas and support marine life.,Navi Mumbai,22-05-2024,1.52,19.0308262,73.0198537
+18,Literacy Program for Slum Children,Education & Awareness,Providing basic education to children in slum areas to bridge educational gaps.,Wadala,25-05-2024,2.62,19.0269192,72.8759337
+19,Folk Dance Performance,Cultural & Artistic,Showcasing traditional Maharashtrian folk dances to preserve cultural heritage.,Thane,30-05-2024,2.16,19.1943294,72.9701779
+20,Leadership Workshop for Youth,Leadership & Development,Training young adults in leadership skills and community engagement.,Vile Parle,05-06-2024,1.46,19.0999098,72.8440038
+21,Waste Segregation Awareness Campaign,Environmental,Educating residents on the importance of separating waste for recycling and composting.,Chembur,10-06-2024,3.06,19.054818,72.8979713
+22,Free Medical Check-up Camp,Community Welfare,Offering free health screenings and consultations for the elderly.,Mulund,15-06-2024,0.7,19.1721762,72.9562383
+23,Workshop on Renewable Energy,Education & Awareness,Informing participants about solar and wind energy solutions for homes.,Khar,20-06-2024,1.46,19.0682411,72.8400412
+24,Street Music Festival,Cultural & Artistic,Local musicians perform in public spaces to promote arts and community bonding.,Churchgate,25-06-2024,1.83,18.9354797,72.8271741
+25,Seminar on Women's Rights,Leadership & Development,Legal experts discuss women's rights and empowerment strategies.,Sion,30-06-2024,2.28,46.2311749,7.3588795
+26,Beach Yoga Session,Community Welfare,A morning yoga session promoting physical and mental well-being by the sea.,Girgaon Chowpatty,05-07-2024,3.93,18.9543739,72.81287123
+27,Tree Plantation at Aarey Colony,Environmental,Planting saplings to enhance green cover and support wildlife habitats.,Goregaon,10-07-2024,1,19.1648688,72.8495492
+28,Career Guidance Workshop,Education & Awareness,Professionals provide career counseling to high school students.,Kandivali,15-07-2024,2.57,19.2041136,72.8517376
+29,Theatre Workshop for Aspiring Actors,Cultural & Artistic,Training sessions for budding actors to hone their theatrical skills.,Juhu,20-07-2024,2.96,19.1070215,72.8275275
+30,Seminar on Climate Change,Leadership & Development,Environmental scientists discuss the impacts of climate change and mitigation strategies.,Worli,25-07-2024,0.23,19.0116962,72.8180702
+31,Community Cleanliness Drive,Environmental,Residents collaborate to clean and beautify their neighborhood streets.,Matunga,30-07-2024,3.04,19.0274356,72.8501467
+32,Nutrition Awareness Camp,Community Welfare,Educating families about balanced diets and healthy eating habits.,Byculla,05-08-2024,0.85,18.9766219,72.8327936
+33,Workshop on Financial Literacy,Education & Awareness,Providing financial literacy education for better money management.,Dadar,10-08-2024,0.33,19.0177342,72.8437523
+34,Slum Area Clean-Up,Cultural & Artistic,Volunteers help clean up slum areas to improve sanitation and living conditions.,Dadar,15-08-2024,3.7,19.0177342,72.8437523
+35,Free Eye Check-up Camp,Environmental,Free eye check-ups and distribution of glasses for underprivileged individuals.,Lower Parel,16-08-2024,3.49,18.99568,72.8302756
+36,Heritage Walk Tour,Environmental,"Guided tour through Mumbaiâ€™s heritage sites, promoting cultural awareness.",Chembur,17-08-2024,3.51,19.054818,72.8979713
+37,Public Speaking Workshop,Community Welfare,Training session to help individuals build confidence in public speaking.,Vile Parle,18-08-2024,1.8,19.0999098,72.8440038
+38,E-Waste Collection Drive,Environmental,Collecting and responsibly disposing of e-waste to reduce pollution.,Versova,19-08-2024,1.47,19.13025205,72.8213775
+39,Disability Awareness Seminar,Education & Awareness,Discussion on challenges faced by differently-abled individuals and solutions.,Dadar,20-08-2024,4.05,19.0177342,72.8437523
+40,Plastic-Free Market Initiative,Cultural & Artistic,"Encouraging local markets to switch to sustainable, plastic-free alternatives.",Dharavi,21-08-2024,4.05,19.044463,72.8586177
+41,Senior Citizens Storytelling Session,Environmental,Seniors share life stories and wisdom with younger generations.,Navi Mumbai,22-08-2024,4.34,19.0308262,73.0198537
+42,Wildlife Conservation Talk,Environmental,Experts talk about Mumbaiâ€™s biodiversity and conservation efforts.,Dadar,23-08-2024,4.57,19.0177342,72.8437523
+43,Riverbank Plantation Drive,Community Welfare,Planting trees along riverbanks to prevent erosion and promote greenery.,Saki Naka,24-08-2024,2.56,19.1082208,72.8835824
+44,Childrenâ€™s Drawing Competition,Community Welfare,A competition encouraging kids to express social issues through art.,Mulund,25-08-2024,2.51,19.1721762,72.9562383
+45,Tech Bootcamp for Underprivileged Youth,Education & Awareness,Providing coding and digital literacy skills to underprivileged youth.,Mulund,26-08-2024,3.99,19.1721762,72.9562383
+46,Gender Equality Awareness Drive,Cultural & Artistic,Interactive discussions on gender equality and women's empowerment.,Worli,27-08-2024,3.25,19.0116962,72.8180702
+47,Cycling Marathon for a Cause,Community Welfare,Cycling event promoting environmental awareness and fitness.,Versova,28-08-2024,3.51,19.13025205,72.8213775
+48,Urban Gardening Workshop,Environmental,Workshop on growing plants in urban spaces to promote greenery.,Goregaon,29-08-2024,3.98,19.1648688,72.8495492
+49,Zero-Waste Lifestyle Seminar,Cultural & Artistic,Insights on leading a zero-waste lifestyle for a sustainable future.,Goregaon,30-08-2024,4.45,19.1648688,72.8495492
+50,Handmade Paper Making Workshop,Cultural & Artistic,Training on making eco-friendly paper from waste materials.,Chembur,31-08-2024,1.69,19.054818,72.8979713
+51,Organic Farming Awareness,Environmental,Educating farmers and urban dwellers on organic farming benefits.,Worli,01-09-2024,1.88,19.0116962,72.8180702
+52,Rooftop Solar Awareness Camp,Community Welfare,Demonstration of rooftop solar panels and renewable energy solutions.,Dadar,02-09-2024,0.47,19.0177342,72.8437523
+53,Empowering Women through Handicrafts,Environmental,Helping women develop handicraft skills for financial independence.,Kandivali,03-09-2024,2.89,19.2041136,72.8517376
+54,LGBTQ+ Rights Awareness,Cultural & Artistic,Raising awareness about LGBTQ+ rights and inclusivity.,Dadar,04-09-2024,0.18,19.0177342,72.8437523
+55,Road Safety Awareness Drive,Leadership & Development,Educating people on traffic rules and road safety measures.,Bandra,05-09-2024,2.33,19.0549792,72.8402203
+56,Public Library Revamp,Leadership & Development,Volunteers renovate and restock old public libraries for community use.,Thane,06-09-2024,2.71,19.1943294,72.9701779
+57,Poetry Slam Night,Education & Awareness,Poetry event highlighting social issues and inspiring change.,Andheri,07-09-2024,1.43,19.1196976,72.8464205
+58,Waste Management Training Program,Environmental,Workshop on proper waste management techniques for homes and businesses.,Navi Mumbai,08-09-2024,2.95,19.0308262,73.0198537
+59,Public Park Beautification Drive,Environmental,Volunteers plant flowers and trees to beautify local parks.,Kandivali,09-09-2024,0.15,19.2041136,72.8517376
+60,Job Fair for Underprivileged Youth,Education & Awareness,A job fair connecting underprivileged youth with employment opportunities.,Worli,10-09-2024,0.19,19.0116962,72.8180702
+61,Mental Health Counseling Session,Education & Awareness,Counseling sessions to help individuals cope with stress and anxiety.,Juhu,11-09-2024,4.11,19.1070215,72.8275275
+62,Financial Aid Guidance for Students,Education & Awareness,Guidance on securing scholarships and financial aid for students.,Colaba,12-09-2024,1.8,18.915091,72.8259691
+63,Storytelling for Social Change,Cultural & Artistic,Storytelling event focused on social change and empowerment.,Churchgate,13-09-2024,0.64,18.9354797,72.8271741
+64,Vegan Lifestyle Awareness,Environmental,Introduction to veganism and its benefits for health and the environment.,Juhu,14-09-2024,2.61,19.1070215,72.8275275
+65,Plastic Bottle Recycling Initiative,Cultural & Artistic,Initiative to repurpose plastic bottles into useful household items.,Matunga,15-09-2024,3.85,19.0274356,72.8501467
+66,Free Yoga and Meditation Camp,Education & Awareness,Free yoga and meditation sessions promoting mental and physical well-being.,Dadar,16-09-2024,1.08,19.0177342,72.8437523
+67,Science Exhibition for Rural Schools,Environmental,Science fair to educate rural students on innovations and STEM careers.,Chembur,17-09-2024,3.11,19.054818,72.8979713
+68,Social Entrepreneurship Summit,Cultural & Artistic,Summit for young entrepreneurs focusing on social impact businesses.,Byculla,18-09-2024,0.43,18.9766219,72.8327936
+69,Elderly Support Group Meetup,Cultural & Artistic,Support group providing emotional and financial help for elderly individuals.,Khar,19-09-2024,0.26,19.0682411,72.8400412
+70,Disaster Preparedness Workshop,Education & Awareness,Training on responding to natural disasters and emergencies.,Dadar,20-09-2024,2.66,19.0177342,72.8437523
+71,Animal Adoption Drive,Environmental,Event encouraging people to adopt stray animals and provide shelter.,Dharavi,21-09-2024,2.7,19.044463,72.8586177
+72,Safe Drinking Water Initiative,Education & Awareness,Awareness program on clean drinking water and its importance.,Wadala,22-09-2024,3.19,19.0269192,72.8759337
+73,Rehabilitation Program for Addicts,Environmental,Rehabilitation program helping addicts reintegrate into society.,Sion,23-09-2024,3.63,46.2311749,7.3588795
+74,Feminism and Social Change Talk,Leadership & Development,A discussion on feminism and its role in creating social change.,Matunga,24-09-2024,4.88,19.0274356,72.8501467
+75,Self-Defense Workshop for Women,Community Welfare,Training women in self-defense techniques for personal safety.,Dharavi,25-09-2024,2.58,19.044463,72.8586177
+76,Organic Waste Composting Workshop,Community Welfare,Teaching people how to compost organic waste at home.,Churchgate,26-09-2024,1.61,18.9354797,72.8271741
+77,Cybersecurity Awareness for Kids,Community Welfare,Educating children about online safety and cybersecurity threats.,Byculla,27-09-2024,3.98,18.9766219,72.8327936
+78,Innovative Teaching Methods Seminar,Education & Awareness,Seminar exploring innovative teaching methodologies for educators.,Mulund,28-09-2024,1.35,19.1721762,72.9562383
+79,Skill Development for Differently-Abled,Leadership & Development,Vocational training for differently-abled individuals to enhance employability.,Khar,29-09-2024,2.19,19.0682411,72.8400412
+80,Theatre for Social Change,Environmental,Theatre performance addressing social issues through drama.,Borivali,30-09-2024,0.39,19.229068,72.8573628
+81,Career Growth and Resume Building Workshop,Cultural & Artistic,Career counseling and resume-building workshops for job seekers.,Goregaon,01-10-2024,0.13,19.1648688,72.8495492
+82,Art Therapy for Mental Well-being,Environmental,Using art therapy as a tool for improving mental well-being.,Borivali,02-10-2024,4.81,19.229068,72.8573628
+83,Promoting Ethical Consumerism,Cultural & Artistic,Seminar on making ethical consumer choices for a better society.,Girgaon Chowpatty,03-10-2024,4.18,18.9543739,72.81287123
